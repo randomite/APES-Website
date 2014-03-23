@@ -10,7 +10,11 @@ body {
 	background: #0C8731;
 	background-repeat:repeat-x;
 	*/
-	background-image:url(images/background.png);
+	background-image:url(images/background9.png);
+	
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	
 }
 *
 {
