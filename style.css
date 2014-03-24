@@ -38,7 +38,7 @@ width:960px;
 
 #header h1
 {
-	position:absolute;
+position:absolute;
 text-align:left;
 color:#FFFFFF;
 font-size:43px;
@@ -96,19 +96,19 @@ float:left;
 {
 width:204px;
 height:13px;
-background-image:url(images/leftmenu_top.png);
+/*background-image:url(images/leftmenu_top.png);*/
 }
 #leftmenu_bottom
 {
 width:204px;
 height:13px;
-background-image:url(images/leftmenu_bottom.png);
+/*background-image:url(images/leftmenu_bottom.png);*/
 }
 #leftmenu_main
 {
 width:204px;
 height:auto;
-background-color:#053011;
+/*background-color:#053011;*/
 }
 
 #leftmenu_main ul
@@ -147,7 +147,7 @@ padding-left:12px;
 padding-top:4px;
 height:30px;
 text-align:left;
-background-image:url(images/leftmenu_link.png);
+/*background-image:url(images/leftmenu_link.png);*/
 background-repeat:repeat-x;
 margin-top:5px;
 color:#FFFFFF;
