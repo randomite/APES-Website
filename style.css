@@ -20,7 +20,7 @@ a { color:#00b2e8; text-decoration:underline;}
 .header .logo { padding:61px 0 0 61px; float:left; width:auto;}
 
 /* menu */
-.menu_nav { padding-left:20px; float:left; width:auto;}
+.menu_nav { padding-left:20%; float:left; width:auto;}
 .menu_nav ul { list-style:none; padding-top:14px;}
 .menu_nav ul li { margin:0 4px; float:left;}
 .menu_nav ul li a { display:block; margin:0; padding:20px 24px; color:#fff; text-decoration:none;}
